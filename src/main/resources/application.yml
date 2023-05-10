@@ -1,5 +1,5 @@
-token:
+token: # 密钥，用于生成令牌
   secret: 你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界冒险游戏
   ttl:
-    access: 30
-    refresh: 120
+    access: 30 # 访问令牌有效时间（秒）
+    refresh: 120 # 刷新令牌有效时间（秒）
