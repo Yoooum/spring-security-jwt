@@ -1,0 +1,5 @@
+token:
+  secret: 你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界冒险游戏
+  ttl:
+    access: 30
+    refresh: 120
